@@ -1,9 +1,6 @@
 Olá! Sou o Rafael Menezes 🤙🏿
   <br> 
-- 💸 Trabalho NUm Banco Digital
-- 🤓 Estudante de Programação
-- ⚽ Apaixonado por futebol e café ☕
-- 👨🏿 Pronouns: Ele/He
+
 
 <div>
    
